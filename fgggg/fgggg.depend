@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641546102 source:c:\users\fader\desktop\code\c++\fgggg\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
